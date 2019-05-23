@@ -1,5 +1,7 @@
-def reverse_each_word
-  puts ("I love Food")
+def reverse_each_word ("I love food")
+  => ("I love Food")
   
 end
+  
+
   
